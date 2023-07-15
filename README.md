@@ -1,4 +1,4 @@
-////////back-end(link)=https://github.com/Ronti95/backend.git\\\\\
+#//back-end(link)=https://github.com/Ronti95/backend.git\
 
 # BLOODBANKMANEGEMENT
 
